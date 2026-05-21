@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-huddle-landing-page-with-curved-sections-master/)
+[My Solution](https://dovlym.github.io/FEM-huddle-landing-page-with-curved-sections-master/)
 
 
 ## My process
